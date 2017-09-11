@@ -23,7 +23,7 @@
   		<!-- 设置数据源 -->
    		<property name="dataSource" ref="dataSource"/>
    		<!-- 设置类型别名 (采用包扫描) -->
-   		<property name="typeAliasesPackage" value="com.taotao.admin.pojo"/>
+   		<property name="typeAliasesPackage" value="com.panpan.admin.pojo"/>
    		<!-- 设置SQL映射文件 -->
    		<property name="mapperLocations" value="classpath:mappers/**/*.xml"/>
    		<!-- 设置mybatis-config.xml -->
